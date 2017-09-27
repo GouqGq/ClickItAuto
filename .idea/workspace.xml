@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Click it Auto:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dae66f60-9d74-4f04-8c68-a3b94edae44a" name="Default" comment="" />
     <ignored path="Click it Auto.iws" />
@@ -25,8 +30,8 @@
       <file leaf-file-name="ClickItAuto.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+            <state relative-caret-position="531">
+              <caret line="114" column="60" selection-start-line="114" selection-start-column="60" selection-end-line="114" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,18 +42,165 @@
       <file leaf-file-name="JTextComponent.java" pinned="false" current-in-tab="false">
         <entry file="jar://D:/Java/jdk-8u101/src.zip!/javax/swing/text/JTextComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
+            <state relative-caret-position="748">
               <caret line="1628" column="0" selection-start-line="1628" selection-start-column="0" selection-end-line="1628" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#189493#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#12645#12646#0" expanded="false" />
+                <element signature="e#12676#12677#0" expanded="false" />
+                <element signature="e#13278#13279#0" expanded="false" />
+                <element signature="e#13341#13342#0" expanded="false" />
+                <element signature="e#13551#13552#0" expanded="false" />
+                <element signature="e#13617#13618#0" expanded="false" />
+                <element signature="e#14040#14041#0" expanded="false" />
+                <element signature="e#14109#14110#0" expanded="false" />
+                <element signature="e#17545#17546#0" expanded="false" />
+                <element signature="e#17573#17574#0" expanded="false" />
+                <element signature="e#18535#18536#0" expanded="false" />
+                <element signature="e#18597#18598#0" expanded="false" />
+                <element signature="e#19653#19654#0" expanded="false" />
+                <element signature="e#19682#19683#0" expanded="false" />
+                <element signature="e#19997#19998#0" expanded="false" />
+                <element signature="e#20038#20039#0" expanded="false" />
+                <element signature="e#20476#20477#0" expanded="false" />
+                <element signature="e#20515#20516#0" expanded="false" />
+                <element signature="e#20693#20694#0" expanded="false" />
+                <element signature="e#20721#20722#0" expanded="false" />
+                <element signature="e#21701#21702#0" expanded="false" />
+                <element signature="e#21735#21736#0" expanded="false" />
+                <element signature="e#25312#25313#0" expanded="false" />
+                <element signature="e#25346#25347#0" expanded="false" />
+                <element signature="e#27006#27007#0" expanded="false" />
+                <element signature="e#27037#27038#0" expanded="false" />
+                <element signature="e#36101#36102#0" expanded="false" />
+                <element signature="e#36136#36137#0" expanded="false" />
+                <element signature="e#39100#39101#0" expanded="false" />
+                <element signature="e#39129#39130#0" expanded="false" />
+                <element signature="e#40436#40437#0" expanded="false" />
+                <element signature="e#40486#40487#0" expanded="false" />
+                <element signature="e#40753#40754#0" expanded="false" />
+                <element signature="e#40800#40801#0" expanded="false" />
+                <element signature="e#44143#44159#0" expanded="false" />
+                <element signature="e#44678#44679#0" expanded="false" />
+                <element signature="e#44711#44712#0" expanded="false" />
+                <element signature="e#45459#45460#0" expanded="false" />
+                <element signature="e#45496#45497#0" expanded="false" />
+                <element signature="e#46298#46299#0" expanded="false" />
+                <element signature="e#46338#46339#0" expanded="false" />
+                <element signature="e#47161#47162#0" expanded="false" />
+                <element signature="e#47201#47202#0" expanded="false" />
+                <element signature="e#51303#51304#0" expanded="false" />
+                <element signature="e#51355#51356#0" expanded="false" />
+                <element signature="e#52247#52248#0" expanded="false" />
+                <element signature="e#52316#52317#0" expanded="false" />
+                <element signature="e#57151#57152#0" expanded="false" />
+                <element signature="e#57190#57191#0" expanded="false" />
+                <element signature="e#60535#60536#0" expanded="false" />
+                <element signature="e#60572#60573#0" expanded="false" />
+                <element signature="e#63649#63650#0" expanded="false" />
+                <element signature="e#63680#63681#0" expanded="false" />
+                <element signature="e#71004#71005#0" expanded="false" />
+                <element signature="e#71045#71046#0" expanded="false" />
+                <element signature="e#85440#85448#0" expanded="false" />
+                <element signature="e#87596#87597#0" expanded="false" />
+                <element signature="e#87700#87701#0" expanded="false" />
+                <element signature="e#100931#100932#0" expanded="false" />
+                <element signature="e#100981#100982#0" expanded="false" />
+                <element signature="e#101373#101374#0" expanded="false" />
+                <element signature="e#101408#101409#0" expanded="false" />
+                <element signature="e#105785#105786#0" expanded="false" />
+                <element signature="e#105833#105834#0" expanded="false" />
+                <element signature="e#106193#106194#0" expanded="false" />
+                <element signature="e#106262#106263#0" expanded="false" />
+                <element signature="e#107550#107551#0" expanded="false" />
+                <element signature="e#107620#107621#0" expanded="false" />
+                <element signature="e#108039#108040#0" expanded="false" />
+                <element signature="e#108107#108108#0" expanded="false" />
+                <element signature="e#108296#108297#0" expanded="false" />
+                <element signature="e#108364#108365#0" expanded="false" />
+                <element signature="e#109122#109123#0" expanded="false" />
+                <element signature="e#109179#109180#0" expanded="false" />
+                <element signature="e#109551#109552#0" expanded="false" />
+                <element signature="e#109608#109609#0" expanded="false" />
+                <element signature="e#109979#109980#0" expanded="false" />
+                <element signature="e#110037#110038#0" expanded="false" />
+                <element signature="e#116229#116230#0" expanded="false" />
+                <element signature="e#116264#116265#0" expanded="false" />
+                <element signature="e#116485#116486#0" expanded="false" />
+                <element signature="e#116539#116540#0" expanded="false" />
+                <element signature="e#120744#120745#0" expanded="false" />
+                <element signature="e#120816#120817#0" expanded="false" />
+                <element signature="e#140950#140951#0" expanded="false" />
+                <element signature="e#140985#140986#0" expanded="false" />
+                <element signature="e#145484#145485#0" expanded="false" />
+                <element signature="e#145520#145521#0" expanded="false" />
+                <element signature="e#145678#145679#0" expanded="false" />
+                <element signature="e#145713#145714#0" expanded="false" />
+                <element signature="e#152152#152153#0" expanded="false" />
+                <element signature="e#152187#152188#0" expanded="false" />
+                <element signature="e#155005#155006#0" expanded="false" />
+                <element signature="e#155046#155047#0" expanded="false" />
+                <element signature="e#155081#155082#0" expanded="false" />
+                <element signature="e#155114#155115#0" expanded="false" />
+                <element signature="e#158781#158782#0" expanded="false" />
+                <element signature="e#158837#158838#0" expanded="false" />
+                <element signature="e#158907#158908#0" expanded="false" />
+                <element signature="e#158951#158952#0" expanded="false" />
+                <element signature="e#159012#159013#0" expanded="false" />
+                <element signature="e#159056#159057#0" expanded="false" />
+                <element signature="e#159096#159097#0" expanded="false" />
+                <element signature="e#159136#159137#0" expanded="false" />
+                <element signature="e#159180#159181#0" expanded="false" />
+                <element signature="e#159217#159218#0" expanded="false" />
+                <element signature="e#159272#159273#0" expanded="false" />
+                <element signature="e#159316#159317#0" expanded="false" />
+                <element signature="e#159469#159470#0" expanded="false" />
+                <element signature="e#159531#159532#0" expanded="false" />
+                <element signature="e#160704#160705#0" expanded="false" />
+                <element signature="e#160748#160749#0" expanded="false" />
+                <element signature="e#162813#162814#0" expanded="false" />
+                <element signature="e#162857#162858#0" expanded="false" />
+                <element signature="e#166281#166282#0" expanded="false" />
+                <element signature="e#166313#166314#0" expanded="false" />
+                <element signature="e#166661#166662#0" expanded="false" />
+                <element signature="e#166727#166728#0" expanded="false" />
+                <element signature="e#166823#166824#0" expanded="false" />
+                <element signature="e#166857#166858#0" expanded="false" />
+                <element signature="e#166895#166896#0" expanded="false" />
+                <element signature="e#166930#166931#0" expanded="false" />
+                <element signature="e#167790#167791#0" expanded="false" />
+                <element signature="e#167831#167832#0" expanded="false" />
+                <element signature="e#175893#175894#0" expanded="false" />
+                <element signature="e#175973#175974#0" expanded="false" />
+                <element signature="e#176026#176027#0" expanded="false" />
+                <element signature="e#176106#176107#0" expanded="false" />
+                <element signature="e#176159#176160#0" expanded="false" />
+                <element signature="e#176239#176240#0" expanded="false" />
+                <element signature="e#186420#186421#0" expanded="false" />
+                <element signature="e#186470#186471#0" expanded="false" />
+                <element signature="e#189418#189419#0" expanded="false" />
+                <element signature="e#189483#189484#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
+      <file leaf-file-name="GlobalKeyListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="359">
+              <caret line="30" column="152" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="152" />
               <folding />
             </state>
           </provider>
@@ -57,24 +209,71 @@
       <file leaf-file-name="Logger.java" pinned="false" current-in-tab="false">
         <entry file="jar://D:/Java/jdk-8u101/src.zip!/java/util/logging/Logger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="748">
               <caret line="1686" column="16" selection-start-line="1686" selection-start-column="16" selection-end-line="1686" selection-end-column="16" />
-              <folding />
+              <folding>
+                <element signature="e#0#90488#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#10545#10546#0" expanded="false" />
+                <element signature="e#10624#10625#0" expanded="false" />
+                <element signature="e#18773#18774#0" expanded="false" />
+                <element signature="e#18811#18812#0" expanded="false" />
+                <element signature="e#19992#19993#0" expanded="false" />
+                <element signature="e#20062#20063#0" expanded="false" />
+                <element signature="e#27979#27980#0" expanded="false" />
+                <element signature="e#28026#28027#0" expanded="false" />
+                <element signature="e#30919#30920#0" expanded="false" />
+                <element signature="e#30991#30992#0" expanded="false" />
+                <element signature="e#31692#31693#0" expanded="false" />
+                <element signature="e#31746#31747#0" expanded="false" />
+                <element signature="e#32506#32507#0" expanded="false" />
+                <element signature="e#32535#32536#0" expanded="false" />
+                <element signature="e#64177#64178#0" expanded="false" />
+                <element signature="e#64215#64216#0" expanded="false" />
+                <element signature="e#64567#64568#0" expanded="false" />
+                <element signature="e#64606#64607#0" expanded="false" />
+                <element signature="e#64950#64951#0" expanded="false" />
+                <element signature="e#64986#64987#0" expanded="false" />
+                <element signature="e#65335#65336#0" expanded="false" />
+                <element signature="e#65373#65374#0" expanded="false" />
+                <element signature="e#65716#65717#0" expanded="false" />
+                <element signature="e#65752#65753#0" expanded="false" />
+                <element signature="e#66098#66099#0" expanded="false" />
+                <element signature="e#66135#66136#0" expanded="false" />
+                <element signature="e#66484#66485#0" expanded="false" />
+                <element signature="e#66522#66523#0" expanded="false" />
+                <element signature="e#67392#67393#0" expanded="false" />
+                <element signature="e#67438#67439#0" expanded="false" />
+                <element signature="e#68045#68046#0" expanded="false" />
+                <element signature="e#68092#68093#0" expanded="false" />
+                <element signature="e#68690#68691#0" expanded="false" />
+                <element signature="e#68734#68735#0" expanded="false" />
+                <element signature="e#69338#69339#0" expanded="false" />
+                <element signature="e#69384#69385#0" expanded="false" />
+                <element signature="e#69982#69983#0" expanded="false" />
+                <element signature="e#70026#70027#0" expanded="false" />
+                <element signature="e#70627#70628#0" expanded="false" />
+                <element signature="e#70672#70673#0" expanded="false" />
+                <element signature="e#71276#71277#0" expanded="false" />
+                <element signature="e#71322#71323#0" expanded="false" />
+                <element signature="e#72437#72438#0" expanded="false" />
+                <element signature="e#72479#72480#0" expanded="false" />
+                <element signature="e#72755#72756#0" expanded="false" />
+                <element signature="e#72789#72790#0" expanded="false" />
+                <element signature="e#73457#73458#0" expanded="false" />
+                <element signature="e#73484#73485#0" expanded="false" />
+                <element signature="e#74938#74939#0" expanded="false" />
+                <element signature="e#74984#74985#0" expanded="false" />
+                <element signature="e#75153#75154#0" expanded="false" />
+                <element signature="e#75207#75208#0" expanded="false" />
+                <element signature="e#76148#76149#0" expanded="false" />
+                <element signature="e#76188#76189#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gq/gouq/NotMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClickItAuto.form" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClickItAuto.form" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form">
           <provider selected="true" editor-type-id="ui-designer">
             <state />
@@ -89,6 +288,10 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -118,10 +321,11 @@
         <option value="$PROJECT_DIR$/src/ga/gamesfree/MegPack/ClickItAuto.java" />
         <option value="$PROJECT_DIR$/src/ga/gamesfree/MegPack/Main.java" />
         <option value="$PROJECT_DIR$/src/ga/gamesfree/MegPack/ClickItAuto.form" />
+        <option value="$PROJECT_DIR$/src/gq/gouq/DoubleSpinner.java" />
         <option value="$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java" />
-        <option value="$PROJECT_DIR$/src/gq/gouq/Main.java" />
-        <option value="$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java" />
         <option value="$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form" />
+        <option value="$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java" />
+        <option value="$PROJECT_DIR$/src/gq/gouq/Main.java" />
       </list>
     </option>
   </component>
@@ -156,33 +360,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClickitAuto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -200,11 +418,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -218,36 +436,95 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Click it Auto" />
+              <option name="myItemId" value="ClickitAuto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClickitAuto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ClickitAuto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Click_it_Auto_jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="168" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="click_it_auto" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-1.0.1/resources/app/git/cmd/git.exe" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="967" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="292" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="293" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="968" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="JAR Application.Unnamed">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="gq.gouq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="gq.gouq.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Click it Auto" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -616,24 +893,22 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
+    <configuration default="false" name="Unnamed" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="gq.gouq.NotMain" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="WORKING_DIRECTORY" value="D:\Intellij Idea Projects\ClickitAuto" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Click it Auto" />
       <envs />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="JAR Application.Unnamed" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -652,8 +927,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -661,12 +936,12 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.031419285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18418202" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1684435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1716418" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -704,11 +979,129 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk-8u101/src.zip!/java/net/URI.java" />
+    <entry file="jar://D:/jdk-8u101/src.zip!/java/awt/Desktop.java" />
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/NotMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="42" column="280" selection-start-line="42" selection-start-column="280" selection-end-line="42" selection-end-column="280" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk-8u101/src.zip!/java/net/URI.java" />
+    <entry file="jar://D:/jdk-8u101/src.zip!/java/awt/Desktop.java" />
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/NotMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="42" column="280" selection-start-line="42" selection-start-column="280" selection-end-line="42" selection-end-column="280" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk-8u101/src.zip!/java/net/URI.java" />
+    <entry file="jar://D:/jdk-8u101/src.zip!/java/awt/Desktop.java" />
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/NotMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="42" column="280" selection-start-line="42" selection-start-column="280" selection-end-line="42" selection-end-column="280" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
         </state>
       </provider>
     </entry>
@@ -749,157 +1142,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/jdk-8u101/src.zip!/java/net/URI.java" />
     <entry file="jar://D:/jdk-8u101/src.zip!/java/awt/Desktop.java" />
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/NotMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="42" column="280" selection-start-line="42" selection-start-column="280" selection-end-line="42" selection-end-column="280" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk-8u101/src.zip!/java/net/URI.java" />
-    <entry file="jar://D:/jdk-8u101/src.zip!/java/awt/Desktop.java" />
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/NotMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="42" column="280" selection-start-line="42" selection-start-column="280" selection-end-line="42" selection-end-column="280" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk-8u101/src.zip!/java/net/URI.java" />
-    <entry file="jar://D:/jdk-8u101/src.zip!/java/awt/Desktop.java" />
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/NotMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="42" column="280" selection-start-line="42" selection-start-column="280" selection-end-line="42" selection-end-column="280" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk-8u101/src.zip!/java/net/URI.java" />
-    <entry file="jar://D:/jdk-8u101/src.zip!/java/awt/Desktop.java" />
-    <entry file="file://$PROJECT_DIR$/Click it Auto.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk-8u101/src.zip!/javax/swing/JSpinner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="1156" column="15" selection-start-line="1156" selection-start-column="15" selection-end-line="1156" selection-end-column="15" />
-          <folding>
-            <element signature="e#41613#41614#0" expanded="false" />
-            <element signature="e#41690#41691#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -907,15 +1158,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="162" column="11" selection-start-line="162" selection-start-column="11" selection-end-line="162" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,7 +1165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1141">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,7 +1172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +1179,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1988">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +1186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-224">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +1193,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,7 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1316">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +1214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4102">
           <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +1221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="987">
           <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,23 +1228,231 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk-8u101/src.zip!/java/util/logging/Logger.java">
+    <entry file="file://$PROJECT_DIR$/Click it Auto.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="1686" column="16" selection-start-line="1686" selection-start-column="16" selection-end-line="1686" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/DoubleSpinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Java/jdk-8u101/src.zip!/javax/swing/text/JTextComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="748">
           <caret line="1628" column="0" selection-start-line="1628" selection-start-column="0" selection-end-line="1628" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#189493#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#12645#12646#0" expanded="false" />
+            <element signature="e#12676#12677#0" expanded="false" />
+            <element signature="e#13278#13279#0" expanded="false" />
+            <element signature="e#13341#13342#0" expanded="false" />
+            <element signature="e#13551#13552#0" expanded="false" />
+            <element signature="e#13617#13618#0" expanded="false" />
+            <element signature="e#14040#14041#0" expanded="false" />
+            <element signature="e#14109#14110#0" expanded="false" />
+            <element signature="e#17545#17546#0" expanded="false" />
+            <element signature="e#17573#17574#0" expanded="false" />
+            <element signature="e#18535#18536#0" expanded="false" />
+            <element signature="e#18597#18598#0" expanded="false" />
+            <element signature="e#19653#19654#0" expanded="false" />
+            <element signature="e#19682#19683#0" expanded="false" />
+            <element signature="e#19997#19998#0" expanded="false" />
+            <element signature="e#20038#20039#0" expanded="false" />
+            <element signature="e#20476#20477#0" expanded="false" />
+            <element signature="e#20515#20516#0" expanded="false" />
+            <element signature="e#20693#20694#0" expanded="false" />
+            <element signature="e#20721#20722#0" expanded="false" />
+            <element signature="e#21701#21702#0" expanded="false" />
+            <element signature="e#21735#21736#0" expanded="false" />
+            <element signature="e#25312#25313#0" expanded="false" />
+            <element signature="e#25346#25347#0" expanded="false" />
+            <element signature="e#27006#27007#0" expanded="false" />
+            <element signature="e#27037#27038#0" expanded="false" />
+            <element signature="e#36101#36102#0" expanded="false" />
+            <element signature="e#36136#36137#0" expanded="false" />
+            <element signature="e#39100#39101#0" expanded="false" />
+            <element signature="e#39129#39130#0" expanded="false" />
+            <element signature="e#40436#40437#0" expanded="false" />
+            <element signature="e#40486#40487#0" expanded="false" />
+            <element signature="e#40753#40754#0" expanded="false" />
+            <element signature="e#40800#40801#0" expanded="false" />
+            <element signature="e#44143#44159#0" expanded="false" />
+            <element signature="e#44678#44679#0" expanded="false" />
+            <element signature="e#44711#44712#0" expanded="false" />
+            <element signature="e#45459#45460#0" expanded="false" />
+            <element signature="e#45496#45497#0" expanded="false" />
+            <element signature="e#46298#46299#0" expanded="false" />
+            <element signature="e#46338#46339#0" expanded="false" />
+            <element signature="e#47161#47162#0" expanded="false" />
+            <element signature="e#47201#47202#0" expanded="false" />
+            <element signature="e#51303#51304#0" expanded="false" />
+            <element signature="e#51355#51356#0" expanded="false" />
+            <element signature="e#52247#52248#0" expanded="false" />
+            <element signature="e#52316#52317#0" expanded="false" />
+            <element signature="e#57151#57152#0" expanded="false" />
+            <element signature="e#57190#57191#0" expanded="false" />
+            <element signature="e#60535#60536#0" expanded="false" />
+            <element signature="e#60572#60573#0" expanded="false" />
+            <element signature="e#63649#63650#0" expanded="false" />
+            <element signature="e#63680#63681#0" expanded="false" />
+            <element signature="e#71004#71005#0" expanded="false" />
+            <element signature="e#71045#71046#0" expanded="false" />
+            <element signature="e#85440#85448#0" expanded="false" />
+            <element signature="e#87596#87597#0" expanded="false" />
+            <element signature="e#87700#87701#0" expanded="false" />
+            <element signature="e#100931#100932#0" expanded="false" />
+            <element signature="e#100981#100982#0" expanded="false" />
+            <element signature="e#101373#101374#0" expanded="false" />
+            <element signature="e#101408#101409#0" expanded="false" />
+            <element signature="e#105785#105786#0" expanded="false" />
+            <element signature="e#105833#105834#0" expanded="false" />
+            <element signature="e#106193#106194#0" expanded="false" />
+            <element signature="e#106262#106263#0" expanded="false" />
+            <element signature="e#107550#107551#0" expanded="false" />
+            <element signature="e#107620#107621#0" expanded="false" />
+            <element signature="e#108039#108040#0" expanded="false" />
+            <element signature="e#108107#108108#0" expanded="false" />
+            <element signature="e#108296#108297#0" expanded="false" />
+            <element signature="e#108364#108365#0" expanded="false" />
+            <element signature="e#109122#109123#0" expanded="false" />
+            <element signature="e#109179#109180#0" expanded="false" />
+            <element signature="e#109551#109552#0" expanded="false" />
+            <element signature="e#109608#109609#0" expanded="false" />
+            <element signature="e#109979#109980#0" expanded="false" />
+            <element signature="e#110037#110038#0" expanded="false" />
+            <element signature="e#116229#116230#0" expanded="false" />
+            <element signature="e#116264#116265#0" expanded="false" />
+            <element signature="e#116485#116486#0" expanded="false" />
+            <element signature="e#116539#116540#0" expanded="false" />
+            <element signature="e#120744#120745#0" expanded="false" />
+            <element signature="e#120816#120817#0" expanded="false" />
+            <element signature="e#140950#140951#0" expanded="false" />
+            <element signature="e#140985#140986#0" expanded="false" />
+            <element signature="e#145484#145485#0" expanded="false" />
+            <element signature="e#145520#145521#0" expanded="false" />
+            <element signature="e#145678#145679#0" expanded="false" />
+            <element signature="e#145713#145714#0" expanded="false" />
+            <element signature="e#152152#152153#0" expanded="false" />
+            <element signature="e#152187#152188#0" expanded="false" />
+            <element signature="e#155005#155006#0" expanded="false" />
+            <element signature="e#155046#155047#0" expanded="false" />
+            <element signature="e#155081#155082#0" expanded="false" />
+            <element signature="e#155114#155115#0" expanded="false" />
+            <element signature="e#158781#158782#0" expanded="false" />
+            <element signature="e#158837#158838#0" expanded="false" />
+            <element signature="e#158907#158908#0" expanded="false" />
+            <element signature="e#158951#158952#0" expanded="false" />
+            <element signature="e#159012#159013#0" expanded="false" />
+            <element signature="e#159056#159057#0" expanded="false" />
+            <element signature="e#159096#159097#0" expanded="false" />
+            <element signature="e#159136#159137#0" expanded="false" />
+            <element signature="e#159180#159181#0" expanded="false" />
+            <element signature="e#159217#159218#0" expanded="false" />
+            <element signature="e#159272#159273#0" expanded="false" />
+            <element signature="e#159316#159317#0" expanded="false" />
+            <element signature="e#159469#159470#0" expanded="false" />
+            <element signature="e#159531#159532#0" expanded="false" />
+            <element signature="e#160704#160705#0" expanded="false" />
+            <element signature="e#160748#160749#0" expanded="false" />
+            <element signature="e#162813#162814#0" expanded="false" />
+            <element signature="e#162857#162858#0" expanded="false" />
+            <element signature="e#166281#166282#0" expanded="false" />
+            <element signature="e#166313#166314#0" expanded="false" />
+            <element signature="e#166661#166662#0" expanded="false" />
+            <element signature="e#166727#166728#0" expanded="false" />
+            <element signature="e#166823#166824#0" expanded="false" />
+            <element signature="e#166857#166858#0" expanded="false" />
+            <element signature="e#166895#166896#0" expanded="false" />
+            <element signature="e#166930#166931#0" expanded="false" />
+            <element signature="e#167790#167791#0" expanded="false" />
+            <element signature="e#167831#167832#0" expanded="false" />
+            <element signature="e#175893#175894#0" expanded="false" />
+            <element signature="e#175973#175974#0" expanded="false" />
+            <element signature="e#176026#176027#0" expanded="false" />
+            <element signature="e#176106#176107#0" expanded="false" />
+            <element signature="e#176159#176160#0" expanded="false" />
+            <element signature="e#176239#176240#0" expanded="false" />
+            <element signature="e#186420#186421#0" expanded="false" />
+            <element signature="e#186470#186471#0" expanded="false" />
+            <element signature="e#189418#189419#0" expanded="false" />
+            <element signature="e#189483#189484#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-8u101/src.zip!/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="1686" column="16" selection-start-line="1686" selection-start-column="16" selection-end-line="1686" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#90488#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#10545#10546#0" expanded="false" />
+            <element signature="e#10624#10625#0" expanded="false" />
+            <element signature="e#18773#18774#0" expanded="false" />
+            <element signature="e#18811#18812#0" expanded="false" />
+            <element signature="e#19992#19993#0" expanded="false" />
+            <element signature="e#20062#20063#0" expanded="false" />
+            <element signature="e#27979#27980#0" expanded="false" />
+            <element signature="e#28026#28027#0" expanded="false" />
+            <element signature="e#30919#30920#0" expanded="false" />
+            <element signature="e#30991#30992#0" expanded="false" />
+            <element signature="e#31692#31693#0" expanded="false" />
+            <element signature="e#31746#31747#0" expanded="false" />
+            <element signature="e#32506#32507#0" expanded="false" />
+            <element signature="e#32535#32536#0" expanded="false" />
+            <element signature="e#64177#64178#0" expanded="false" />
+            <element signature="e#64215#64216#0" expanded="false" />
+            <element signature="e#64567#64568#0" expanded="false" />
+            <element signature="e#64606#64607#0" expanded="false" />
+            <element signature="e#64950#64951#0" expanded="false" />
+            <element signature="e#64986#64987#0" expanded="false" />
+            <element signature="e#65335#65336#0" expanded="false" />
+            <element signature="e#65373#65374#0" expanded="false" />
+            <element signature="e#65716#65717#0" expanded="false" />
+            <element signature="e#65752#65753#0" expanded="false" />
+            <element signature="e#66098#66099#0" expanded="false" />
+            <element signature="e#66135#66136#0" expanded="false" />
+            <element signature="e#66484#66485#0" expanded="false" />
+            <element signature="e#66522#66523#0" expanded="false" />
+            <element signature="e#67392#67393#0" expanded="false" />
+            <element signature="e#67438#67439#0" expanded="false" />
+            <element signature="e#68045#68046#0" expanded="false" />
+            <element signature="e#68092#68093#0" expanded="false" />
+            <element signature="e#68690#68691#0" expanded="false" />
+            <element signature="e#68734#68735#0" expanded="false" />
+            <element signature="e#69338#69339#0" expanded="false" />
+            <element signature="e#69384#69385#0" expanded="false" />
+            <element signature="e#69982#69983#0" expanded="false" />
+            <element signature="e#70026#70027#0" expanded="false" />
+            <element signature="e#70627#70628#0" expanded="false" />
+            <element signature="e#70672#70673#0" expanded="false" />
+            <element signature="e#71276#71277#0" expanded="false" />
+            <element signature="e#71322#71323#0" expanded="false" />
+            <element signature="e#72437#72438#0" expanded="false" />
+            <element signature="e#72479#72480#0" expanded="false" />
+            <element signature="e#72755#72756#0" expanded="false" />
+            <element signature="e#72789#72790#0" expanded="false" />
+            <element signature="e#73457#73458#0" expanded="false" />
+            <element signature="e#73484#73485#0" expanded="false" />
+            <element signature="e#74938#74939#0" expanded="false" />
+            <element signature="e#74984#74985#0" expanded="false" />
+            <element signature="e#75153#75154#0" expanded="false" />
+            <element signature="e#75207#75208#0" expanded="false" />
+            <element signature="e#76148#76149#0" expanded="false" />
+            <element signature="e#76188#76189#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,34 +1464,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GlobalKeyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="30" column="152" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="152" />
+          <folding />
+        </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/ClickItAuto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="114" column="60" selection-start-line="114" selection-start-column="60" selection-end-line="114" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Click it Auto:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>8u101</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Click it Auto</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jnativehook-2.1.0_beta1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

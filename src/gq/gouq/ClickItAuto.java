@@ -29,15 +29,16 @@ public class ClickItAuto extends JFrame{
     private JTabbedPane tabbedPane1;
     public JRadioButton holdRadioButton;
     private JTextArea thisFreeSoftwareIsTextArea;
-    private JProgressBar progressBar1;
     private JButton sourceforgeSiteButton;
     private JButton sourceCodeButton;
+    public JComboBox clicksPerComboBox;
+    public JSpinner clickAmountSpinner;
 
     public ClickItAuto(){
         super("Click It Auto");
         setContentPane(panel);
         pack();
-        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
 
         changeKeyButton.addActionListener(new ActionListener() {
             @Override
@@ -79,6 +80,24 @@ public class ClickItAuto extends JFrame{
             }
         });
 
+        sourceCodeButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                if(Desktop.isDesktopSupported())
+                {
+                    try {
+                        Desktop.getDesktop().browse(new URI("https://github.com/GouqGq/ClickItAuto/"));
+                    } catch (IOException e1) {
+                        e1.printStackTrace();
+                    } catch (URISyntaxException e1) {
+                        e1.printStackTrace();
+                    }
+                }
+            }
+        });
+
+        thisFreeSoftwareIsTextArea.setText("This free software is brought to you by Gouq.gq, please consider donating to us by clicking the button down below. Alwas think of the license which was enclosed to this software (LICENSE.txt)");
+
         GraphicsDevice gd = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice();
 
 
@@ -91,7 +110,9 @@ public class ClickItAuto extends JFrame{
     }
 
     private void createUIComponents() {
-        SpinnerNumberModel model = new SpinnerNumberModel(5.0, 1.0, 500.0, 1);
+        SpinnerNumberModel model = new SpinnerNumberModel(1, 1, Integer.MAX_VALUE, 1);
         cpsSpinner = new JSpinner(model);
+        SpinnerNumberModel model1 = new SpinnerNumberModel(0, 0, Integer.MAX_VALUE, 1);
+        clickAmountSpinner = new JSpinner(model1);
     }
 }

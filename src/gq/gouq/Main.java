@@ -33,7 +33,15 @@ public class Main {
     public static void main(String[] args){
         try {
             GlobalScreen.registerNativeHook();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        try {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        try {
             bot = new Robot();
         } catch (Exception e) {
             e.printStackTrace();

@@ -62,9 +62,12 @@ public class Main {
 
             if(clicks < 0)
                 clicks = 1;
-
-            clickItAuto.waitBetweenFor.setText("Wait " + Math.round(((1000.0 / clicks) * (100 - (double)clickItAuto.clickQualitySlider.getValue())) * 10.0) / 1000.0 + " ms between every click");
-            clickItAuto.buttonDownFor.setText("Hold mouse button down for " + Math.round(((1000.0 / clicks) * (double)clickItAuto.clickQualitySlider.getValue()) * 10.0) / 1000.0 + " ms");
+            
+            double wait_ms = Math.round(((1000.0 / clicks) * (100 - (double)clickItAuto.clickQualitySlider.getValue())) * 10.0) / 1000.0;
+            double down_ms = Math.round(((1000.0 / clicks) * (double)clickItAuto.clickQualitySlider.getValue()) * 10.0) / 1000.0;
+            
+            clickItAuto.waitBetweenFor.setText("Wait " + wait_ms + " ms between every click");
+            clickItAuto.buttonDownFor.setText("Hold mouse button down for " + down_ms + " ms");
 
             if(!keyPress && !keyActive) {
                 lastTimeClicked = System.currentTimeMillis();
@@ -101,6 +104,15 @@ public class Main {
                     lastTimeClicked = System.currentTimeMillis();
                     clicks_done++;
                 }
+            }
+            try{
+                if(!keyPress && !keyActive) {
+                    Thread.sleep(200);
+                } else {
+                    Thread.sleep((int)Math.max(Math.min(wait_ms, down_ms) - 2, 1.0);
+                }
+            } catch (Exception e){
+                e.printStackTrace();
             }
 
             if(!clickItAuto.isVisible()){
